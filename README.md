@@ -7,7 +7,7 @@ Python Developer
 My first coding experience was with embedded software embedded software, working specifically with STM32 microcontrollers. As I worked on my bachelor's thesis, I delved deep in the world of deep learning and computer vision, focusing on the convolutional neural networks, particularly the YOLO series. Progressing to my master's degree, I explored Generative Adversarial Networks (GANs), investigating their potential to augment datasets for CNN training. Professionally, in my role as an engineer, I've engaged in processing hyperspectral data from the International Space Station, tackling challenges such as georeferencing and cloud detection. Now, I am eager to transition into a role (Python developer possibly) that better aligns with my passions for Python, backend development and computer vision.
 
 *   🌍  I'm based in Moscow
-*   ✉️  You can contact me at [rasskazov\_ilya\_98@mail.ru](mailto:rasskazov_ilya_98@mail.ru)
+*   ✉️  You can contact me at [rasskazov.ilya.98@gmail.com](mailto:rasskazov.ilya.98@gmail.com)
 *   🚀  I'm currently working on [Hexlet User Statistics](http://github.com/rasskazovilya/hexlet_user_stats)
 *   🧠  I'm learning [Data Analytics on Hexlet](https://ru.hexlet.io)
 
